@@ -47,5 +47,3 @@ st.subheader("Prediction Probability")
 st.write(prediction_probability)
 
 st.write("end of program")
-
-# vineet kumar
